@@ -1,0 +1,53 @@
+body {
+    background-color: aquamarine;
+}
+
+.add-post {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.task {
+    border: 2px solid red;
+    border-radius: 10px;
+    background-color: rgb(62, 62, 62);
+    color: white;
+    padding: 0 12px;
+    margin: 5px auto;
+}
+
+.input {
+    border: none;
+}
+
+.submit {
+    background-color: #39ff39;
+    color: white;
+}
+
+input {
+    font-size: 1.4em;
+    margin: 5px;
+    border-radius: 5px;
+    padding: 5px;
+
+}
+
+.update {
+    background-color: yellow;
+    color: rgb(42, 42, 42);
+}
+
+.btn {
+    border: none;
+    border-radius: 5px;
+    padding: 5px 8px;
+    font-weight: 800;
+    font-size: 1em;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.delete {
+    background-color: red;
+    color: white;
+}
