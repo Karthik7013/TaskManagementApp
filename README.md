@@ -1,7 +1,7 @@
 
 # Hi, I'm Karthik 👋
 
-# Task Management Applicatin
+# Task Management Application
 
 Simple Task Management Web Application using React for the front-end and ndoe-expresss for back-end  allowing user to create a task and update task and delete a task from the list.
 
