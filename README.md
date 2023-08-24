@@ -1,7 +1,6 @@
 
+ <!-- How to run the Application  -->
 
-                            <!-- How to run the Application  -->
-<!-- 
 libraries used:
         "nodemon": "^3.0.1",
         "concurrently": "^8.2.1",
@@ -9,7 +8,8 @@ libraries used:
         "express": "^4.18.2",
         "axios": "^1.4.0",
 
-
+=====> extract dowload the zip file and extract to desktop 
+=====> in terminal run npm install to install all the dependencies then 
 =====> To RUN APP "yarn dev"
 =====> frontend runs on localhost port 3000
 =====> backend server run on localhost  port 5000
@@ -19,6 +19,3 @@ libraries used:
 =====> on submit making a post request to add the task to the data.json file
 =====> on delete makin a delete request to delet the task from the data.json file
 =====> on update making a update reques to update the task from the data.json file
-
-
- -->
