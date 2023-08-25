@@ -1,15 +1,10 @@
 
 
 
--okey
-
-
-
 # Hi, I'm Karthik 👋
 
-# ATM MANAGEMENT SYSTEM
-
-ATM MANAGEMENT SYSTEM is a structure that provides a simple set-up of programs for user enrollment and validate Login credentials and perform basic ATM Operations.
+# Task Management Application
+Simple Task Management Web Application using React for the front-end and node-expresss for back-end  allowing user to create a task and update task and delete a task from the list of tasks.
 
 
 
