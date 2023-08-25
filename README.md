@@ -1,20 +1,19 @@
 
 # Hi, I'm Karthik 👋
 
-# Task Management Application
+# <img width="60px" src="https://ik.imagekit.io/ybyfbcvb8/DxD1hLgUwAAo-Od.jpg?updatedAt=1692966270901"/>Task Management Application
 
 Simple Task Management Web Application using React for the front-end and node-expresss for back-end  allowing user to create a task and update task and delete a task from the list of tasks.
 
 
 ## Technologies
 
-**Client:** React
+- Python + Tkinter + sqlite3
 
-**Server:** Node, Express.
 
 ## Screenshots
 
-![App Screenshot](https://ik.imagekit.io/ybyfbcvb8/React%20App%20-%20Google%20Chrome%2024-08-2023%2017_52_04.png?updatedAt=1692880437560)
+![App Screenshot](https://ik.imagekit.io/ybyfbcvb8/SBI%20_%20HOME%20%2025-08-2023%2017_42_04.png?updatedAt=1692966101570)
 
 
 
@@ -22,16 +21,8 @@ Simple Task Management Web Application using React for the front-end and node-ex
 
 - Download the zip file 
 - extract zip to desktop
-- terminal run npm install to install all the dependencies
-- To RUN APP "yarn dev"
-- frontend runs on localhost port 3000
-- backend server run on localhost  port 5000
-- backend serves  data.json file on making getRequest
-- by using axios third party library in react fetching the data from data.json file locally.
-- serving it on front end by iteration the array objects (each Tasks);
-- on submit making a post request to add the task to the data.json file
-- on delete makin a delete request to delete the task from the data.json file
-- on update making a update reques to update the task from the data.json file
-  
-## To stop the Server
-cmd : ctrl+c
+- make sure to install python in your machine
+- run the main.py file to start the project
+- login page will open first click on create new account and create and account
+- use the credentials to login.
+- now you can perform simple task like withdraw money-transfer and balance-enquery and deposite pinchange
