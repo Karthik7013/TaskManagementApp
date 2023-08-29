@@ -32,7 +32,7 @@ Simple Task Management Web Application using React for the front-end and node-ex
 - by using axios third party library in react fetching the data from data.json file locally.
 - serving it on front end by iteration the array objects (each Tasks);
 - on submit making a post request to add the task to the data.json file
-- on delete makin a delete request to delete the task from the data.json file
+- on delete making a delete request to delete the task from the data.json file
 - on update making a update reques to update the task from the data.json file
   
 ## To stop the Server
