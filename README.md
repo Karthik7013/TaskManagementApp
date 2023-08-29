@@ -12,7 +12,7 @@ Simple Task Management Web Application using React for the front-end and node-ex
 
 **Client:** <img width="50px" src="https://ik.imagekit.io/ybyfbcvb8/science.png?updatedAt=1692968478464"/>
 
-**Server:** <img width="50px" src="https://ik.imagekit.io/ybyfbcvb8/nodejs.png?updatedAt=1692968478442"/> <img width="50px" src="https://ik.imagekit.io/ybyfbcvb8/expressjs_logo_icon_169185.png?updatedAt=1692968478434"/>
+**Server:** <img width="50px" src="https://ik.imagekit.io/ybyfbcvb8/nodejs.png?updatedAt=1692968478442"/> <img width="50px" src="https://ik.imagekit.io/ybyfbcvb8/expressjs_logo_icon_169185.png?updatedAt=1692968478434" margin="10px"/>
 
 ## Screenshots
 
